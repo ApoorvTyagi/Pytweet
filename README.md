@@ -10,7 +10,7 @@ The bot will reply to every tweet in which it got mentioned with a specific hash
 ### **Checkout [@Zeal_Quote](https://twitter.com/zeal_quote)** on Twitter to try it out!
 
 
-## Requirements
+## Major Libraries
 
 - Flask
 - pillow
@@ -20,4 +20,4 @@ The bot will reply to every tweet in which it got mentioned with a specific hash
 - urllib3
 
 ## Detailed Blog Link
-Here's the complete link for the article, explaining each and every step - https://auth0.com/blog/how-to-make-a-twitter-bot-in-python-using-tweepy/
+Here's the complete link for the article, explaining each and every step - https://auth0.com/blog/how-to-make-a-twitter-bot-in-python-using-tweepy/. It also includes deployment process to AWS elastic beanstalk
