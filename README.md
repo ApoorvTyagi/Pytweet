@@ -21,3 +21,12 @@ The bot will reply to every tweet in which it got mentioned with a specific hash
 
 ## Detailed Blog Link
 Here's the complete link for the article, explaining each and every step - https://auth0.com/blog/how-to-make-a-twitter-bot-in-python-using-tweepy/. It also includes deployment process to AWS elastic beanstalk
+
+I have stored credentials in a `credentials.py` file in the following format:
+```
+access_token=""
+access_token_secret=""
+API_key=""
+API_secret_key=""
+```
+> You can choose to store it in any other format as well.
